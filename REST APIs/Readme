@@ -1,1 +1,9 @@
 
+# REST APIs Social Media Blog Post App. 
+
+1. Set up the server using NodeJS and ExpressJS.
+2. Routing / Endpoints: HTTP method to connect frontend app to database and backend.
+3. Handling request and response: Parse and send JSON data.
+4. Request Validation: Using third library "Express validator".
+5. Files, upload and download: using third library vvid.
+6. Authentication: Token based authentication.
